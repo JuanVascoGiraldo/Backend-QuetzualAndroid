@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Juanv/AndroidStudioProjects/QuetzualAndroid/app/src/main/res/layout/activity_cuenta.xml" value="0.209375" />
+        <entry key="..\:/Users/Juanv/AndroidStudioProjects/QuetzualAndroid/app/src/main/res/layout/activity_inicio_doctor.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/Juanv/AndroidStudioProjects/QuetzualAndroid/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Juanv/AndroidStudioProjects/QuetzualAndroid/app/src/main/res/layout/activity_preguntas_pendientes.xml" value="0.25" />
+        <entry key="..\:/Users/Juanv/AndroidStudioProjects/QuetzualAndroid/app/src/main/res/layout/activity_ranking.xml" value="0.22" />
+        <entry key="..\:/Users/Juanv/AndroidStudioProjects/QuetzualAndroid/app/src/main/res/layout/activity_rechazadas.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/Juanv/AndroidStudioProjects/QuetzualAndroid/app/src/main/res/layout/activity_rechazar.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/Juanv/AndroidStudioProjects/QuetzualAndroid/app/src/main/res/layout/activity_responder.xml" value="0.33" />
+        <entry key="..\:/Users/Juanv/AndroidStudioProjects/QuetzualAndroid/app/src/main/res/layout/activity_respondidas.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/Juanv/AndroidStudioProjects/QuetzualAndroid/app/src/main/res/menu/overflow.xml" value="0.225" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/drawable/borde_redondo.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/drawable/gradient.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/drawable/ic_logonegrovertical.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/drawable/undraw_happy_announcement_re_tsm0.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/layout/activity_cuenta.xml" value="0.225" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/layout/activity_inicio_doctor.xml" value="0.1546875" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/layout/activity_preguntas_pendientes.xml" value="0.225" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/layout/activity_ranking.xml" value="0.225" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/layout/activity_rechazadas.xml" value="0.225" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/layout/activity_rechazar.xml" value="0.225" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/layout/activity_responder.xml" value="0.225" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/layout/activity_respondidas.xml" value="0.225" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/layout/activity_sin_pregutas_pendientes.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/menu/overflow.xml" value="0.225" />
+        <entry key="..\:/Users/Juanv/Desktop/Proyectos/Android/QuetzualAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1537037037037037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

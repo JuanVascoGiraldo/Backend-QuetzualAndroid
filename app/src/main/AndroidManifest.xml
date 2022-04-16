@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quetzualandroid">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/quetzualicon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/quetzualicon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QuetzualAndroid"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".SinPregutasPendientes"
+            android:exported="true" />
+        <activity
+            android:name=".rechazadas"
+            android:exported="true" />
+        <activity
+            android:name=".respondidas"
+            android:exported="true" />
+        <activity
+            android:name=".Cuenta"
+            android:exported="true" />
+        <activity
+            android:name=".rechazar"
+            android:exported="true" />
+        <activity
+            android:name=".responder"
+            android:exported="true" />
+        <activity
+            android:name=".PreguntasPendientes"
+            android:exported="true" />
+        <activity
+            android:name=".Ranking"
+            android:exported="true" />
+        <activity
+            android:name=".InicioDoctor"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

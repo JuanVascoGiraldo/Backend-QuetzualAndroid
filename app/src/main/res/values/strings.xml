@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quetzual</string>
+    <string name="cat1">Enfermedades de transmisión sexual</string>
+    <string name="cat2">Embarazo</string>
+    <string name="cat3">Salud sexual femenina</string>
+    <string name="cat4">Salud sexual masculina</string>
+    <string name="cat5">Anticonceptivos</string>
+</resources>
