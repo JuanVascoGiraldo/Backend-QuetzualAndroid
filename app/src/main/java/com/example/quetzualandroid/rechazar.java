@@ -128,7 +128,7 @@ public class rechazar extends AppCompatActivity {
         res.setDes_res(razon.getText().toString());
         if(conres(res.getDes_res())){
             Retrofit retrofit = new Retrofit.Builder()
-                    .baseUrl("https://apiquetzual.herokuapp.com/quetzual/Doctor/")
+                    .baseUrl("http://137.184.233.135:4000/quetzual/Doctor/")
                     .addConverterFactory(GsonConverterFactory.create())
                     .build();
             API api = retrofit.create(API.class);
