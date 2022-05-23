@@ -126,7 +126,7 @@ public class Ranking extends AppCompatActivity {
                 + fecha.get(java.util.Calendar.YEAR);
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://apiquetzual.herokuapp.com/quetzual/Doctor/")
+                .baseUrl("http://137.184.233.135:4000/quetzual/Doctor/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
         API api = retrofit.create(API.class);
